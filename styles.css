@@ -1,0 +1,56 @@
+.teste {
+    font-size: 50px;
+}
+
+.top {
+    display: flex;
+    height: 100px;
+    background-color:darkgray;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.container {
+    display: flex;
+    height:600px;
+   
+  
+}
+
+
+.menu {
+    width: 20%;
+    background-color: darkgray;
+}
+
+.jogo {
+    display: flex;
+    width: 80%;
+    background-color: grey;
+    justify-content: center;
+    align-items: center;
+}
+
+.grid {
+    height: 15px;
+    width: 15px;
+    gap: 0px;
+	border:none;
+	outline:1px solid #000;
+	display:inline-block;
+}
+
+.cont1 {
+    flex-direction: row;
+}
+
+.grids:hover {
+background-color: black;
+
+}
+
+.gb1 {
+    justify-content: center;
+}
+
